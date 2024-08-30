@@ -1,0 +1,33 @@
+.flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.box1, .box2, .box3, .box4 {
+    width: 250px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 18px;
+    text-align: center;
+}
+
+.box1 {
+    background-color: rgb(206, 42, 247);
+}
+
+.box2 {
+    background-color: rgb(132, 0, 255);
+}
+
+.box3 {
+    background-color: rgb(70, 0, 136);
+}
+
+.box4 {
+    background-color: rgb(128, 27, 153);
+}

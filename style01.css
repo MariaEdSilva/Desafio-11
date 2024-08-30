@@ -1,0 +1,22 @@
+.left, .center, .right {
+    height: 50px;
+    color: white;
+}
+
+.left {
+    float: left;
+    width: 250px;
+    background-color: #c5059c;
+}
+
+.center {
+    float: left;
+    width: 250px;
+    background-color: #e40072;
+}
+
+.right {
+    float: right;
+    width: 250px;
+    background-color: #f740cf;
+}

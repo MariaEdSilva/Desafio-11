@@ -1,0 +1,24 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+}
+
+.box1, .box2, .box3 {
+    width: 250px;
+    height: 50px;
+    display: flex;
+    color: white;
+}
+
+.box1 {
+    background-color: rgb(141, 0, 0);
+}
+
+.box2 {
+    background-color: rgb(194, 59, 59);
+}
+
+.box3 {
+    background-color: rgb(255, 0, 0);
+}
+

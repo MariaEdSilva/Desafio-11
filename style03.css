@@ -1,0 +1,29 @@
+.float {
+    float: left;
+    width: 250px;
+    height: 150px;
+    background-color: #027e08;
+    color: white;
+    display: flex;
+    margin-right: 20px;
+}
+
+.zindex-1, .zindex-2 {
+    position: absolute;
+    width: 250px;
+    height: 100px;
+    display: flex;
+    color: white;
+}
+
+.zindex-1 {
+    background-color: #1ee270;
+    z-index: 1;
+}
+
+.zindex-2 {
+    background-color: #00b94d;
+    z-index: 2;
+    top: 50px;
+    left: 50px;
+}
